@@ -1,4 +1,4 @@
-# capstone-story-template-IBM
+# Capstone Story Template IBM
 
 This capstone project represents the comprehensive synthesis and application of knowledge acquired throughout the various modules and laboratories of the data science course, focusing on the analysis of the SpaceX data set. The purpose of the presentation is to draw a cohesive narrative that reflects the educational journey through the different aspects of data science explored in this project.
 
